@@ -26,7 +26,7 @@ We aim to test our method on real-world time-series datasets (e.g., stock prices
 - Artem Chuprov  
 - Zhemchueva Darya  
 - Pavlov Nikita  
-- Sausar
+- Sausar Karaf
 
 ## 🏁 Getting Started
 
