@@ -28,6 +28,11 @@ We aim to test our method on real-world time-series datasets (e.g., stock prices
 - Pavlov Nikita  
 - Sausar Karaf
 
+
+## Results
+
+![Network model](img/stock_clusters.jpg)
+
 ## 🏁 Getting Started
 
 ```bash
